@@ -1,5 +1,5 @@
 # vue-music
-
+## 慕课网Vue 2.0 实战 移动端音乐 App
 > 音乐播放器
 
 ## Build Setup
